@@ -458,23 +458,6 @@ Help us improve by:
 
 ---
 
-## 📊 Contribution Stats
-
-### 🏆 **Top Contributors**
-| Rank | Contributor | Projects | Languages |
-|------|-------------|----------|-----------|
-| 1 | @contributor1 | 25 | Python, JavaScript, Java |
-| 2 | @contributor2 | 18 | C++, Go, Rust |
-| 3 | @contributor3 | 15 | Python, React, Node.js |
-
-### 📈 **Repository Stats**
-- **Total Projects**: 200
-- **Languages Supported**: 15+
-- **Active Contributors**: 100+
-- **Solutions Implemented**: 500+
-
----
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
@@ -525,13 +508,7 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 </div>
 
-### **📊 Quick Stats**
-```
-👥 8 followers · 5 following
-🏢 SS Web Innovations
-💼 Available for collaboration
-🎯 Building the future, one commit at a time
-```
+
 
 </td>
 </tr>
