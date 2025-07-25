@@ -17,7 +17,7 @@
 
 ## 🎯 About The Project
 
-Welcome to the **Open Source Project Hub** - a curated collection of 200+ programming projects designed to help developers of all skill levels enhance their coding abilities. Whether you're a beginner taking your first steps in programming or an advanced developer looking for challenging projects, you'll find something here to expand your skillset.
+Welcome to the **Open Source Project Hub** - a curated collection of 97 programming projects designed to help developers of all skill levels enhance their coding abilities. Whether you're a beginner taking your first steps in programming or an advanced developer looking for challenging projects, you'll find something here to expand your skillset.
 
 ### 🌟 Why This Repository?
 
@@ -82,13 +82,13 @@ Welcome to the **Open Source Project Hub** - a curated collection of 200+ progra
 - **Time**: 1-5 hours per project
 - **Prerequisites**: Basic programming knowledge
 
-### 🟡 **Intermediate Level** (51-150)
+### 🟡 **Intermediate Level** (51-60)
 *For developers with some experience*
 - **Focus**: Data structures, APIs, databases, frameworks
 - **Time**: 5-20 hours per project
 - **Prerequisites**: Comfortable with basic programming concepts
 
-### 🔴 **Advanced Level** (151-200)
+### 🔴 **Advanced Level** (61-97)
 *Challenging projects for experienced developers*
 - **Focus**: Complex algorithms, system design, performance optimization
 - **Time**: 20+ hours per project
@@ -102,7 +102,7 @@ Welcome to the **Open Source Project Hub** - a curated collection of 200+ progra
 
 Before contributing, ensure you have:
 - Git installed on your machine
-- Basic understanding of your chosen programming language
+- Basic understanding of your chosen programming language  
 - A GitHub account
 - Code editor of your choice
 
@@ -187,249 +187,177 @@ Help us improve by:
 
 ### 🟢 **Beginner Projects (1-50)**
 
-#### **Basic Programming & Logic**
-1. **Hello World Variants** - Print "Hello World" in creative ways
-2. **Simple Calculator** - Basic arithmetic operations
-3. **Temperature Converter** - Celsius to Fahrenheit and vice versa
-4. **Number Guessing Game** - Computer picks a number, user guesses
-5. **Palindrome Checker** - Check if a string reads the same forwards and backwards
-6. **Prime Number Checker** - Determine if a number is prime
-7. **Factorial Calculator** - Calculate factorial of a number
-8. **Fibonacci Generator** - Generate Fibonacci sequence
-9. **Even/Odd Checker** - Determine if numbers are even or odd
-10. **Leap Year Calculator** - Check if a year is a leap year
+<table>
+<tr>
+<td width="50%">
 
-#### **String Manipulation**
-11. **String Reverser** - Reverse any given string
-12. **Character Counter** - Count characters in a string
-13. **Word Counter** - Count words in a sentence
-14. **Vowel Counter** - Count vowels in a string
-15. **String Formatter** - Convert strings to different cases
-16. **Anagram Checker** - Check if two strings are anagrams
-17. **Password Strength Checker** - Basic password validation
-18. **Text Encoder/Decoder** - Simple Caesar cipher
-19. **Acronym Generator** - Create acronyms from phrases
-20. **Sentence Generator** - Random sentence creation
+#### **Basic Programming & Logic (1-10)**
+1. Hello World Variants
+2. Simple Calculator
+3. Temperature Converter
+4. Number Guessing Game
+5. Palindrome Checker
+6. Prime Number Checker
+7. Factorial Calculator
+8. Fibonacci Generator
+9. Even/Odd Checker
+10. Leap Year Calculator
 
-#### **Data Handling**
-21. **Grade Calculator** - Calculate GPA from grades
-22. **Age Calculator** - Calculate age from birthdate
-23. **Unit Converter** - Convert various units (length, weight, etc.)
-24. **Tip Calculator** - Calculate restaurant tips
-25. **BMI Calculator** - Body Mass Index calculator
-26. **Currency Converter** - Convert between currencies (static rates)
-27. **Loan Calculator** - Simple interest calculations
-28. **Tax Calculator** - Basic tax calculations
-29. **Discount Calculator** - Calculate discounts and savings
-30. **Time Zone Converter** - Convert time between zones
+#### **String Manipulation (11-20)**
+11. String Reverser
+12. Character Counter
+13. Word Counter
+14. Vowel Counter
+15. String Formatter
+16. Anagram Checker
+17. Password Strength Checker
+18. Text Encoder/Decoder
+19. Acronym Generator
+20. Sentence Generator
 
-#### **Games & Fun**
-31. **Rock Paper Scissors** - Classic game against computer
-32. **Dice Roller** - Simulate dice rolls
-33. **Coin Flip Simulator** - Heads or tails
-34. **Magic 8-Ball** - Random answer generator
-35. **Hangman Game** - Word guessing game
-36. **Tic Tac Toe** - Simple grid game
-37. **Memory Game** - Match pairs
-38. **Word Scrambler** - Scramble and unscramble words
-39. **Trivia Quiz** - Simple Q&A game
-40. **Story Generator** - Mad libs style story creation
+#### **Data Handling (21-30)**
+21. Grade Calculator
+22. Age Calculator
+23. Unit Converter
+24. Tip Calculator
+25. BMI Calculator
+26. Currency Converter
+27. Loan Calculator
+28. Tax Calculator
+29. Discount Calculator
+30. Time Zone Converter
 
-#### **Utility Tools**
-41. **Random Password Generator** - Generate secure passwords
-42. **QR Code Generator** - Create QR codes for text
-43. **Color Palette Generator** - Generate color combinations
-44. **Lorem Ipsum Generator** - Generate placeholder text
-45. **Random Quote Generator** - Display inspirational quotes
-46. **Day of Week Calculator** - Find day for any date
-47. **Roman Numeral Converter** - Convert to/from Roman numerals
-48. **Binary Converter** - Convert decimal to binary
-49. **Morse Code Translator** - Text to Morse code
-50. **ASCII Art Generator** - Convert text to ASCII art
+</td>
+<td width="50%">
 
-### 🟡 **Intermediate Projects (51-150)**
+#### **Games & Fun (31-40)**
+31. Rock Paper Scissors
+32. Dice Roller
+33. Coin Flip Simulator
+34. Magic 8-Ball
+35. Hangman Game
+36. Tic Tac Toe
+37. Memory Game
+38. Word Scrambler
+39. Trivia Quiz
+40. Story Generator
 
-#### **Web Development**
-51. **Personal Portfolio Website** - Showcase your skills
-52. **Blog Platform** - Simple content management
-53. **Weather App** - Real-time weather data
-54. **Todo List with Database** - Persistent task management
-55. **Recipe Finder** - Search and display recipes
-56. **News Aggregator** - Collect news from various sources
-57. **URL Shortener** - Create short links
-58. **Online Resume Builder** - Generate formatted resumes
-59. **Event Calendar** - Schedule and manage events
-60. **Photo Gallery** - Upload and display images
+#### **Utility Tools (41-50)**
+41. Random Password Generator
+42. QR Code Generator
+43. Color Palette Generator
+44. Lorem Ipsum Generator
+45. Random Quote Generator
+46. Day of Week Calculator
+47. Roman Numeral Converter
+48. Binary Converter
+49. Morse Code Translator
+50. ASCII Art Generator
 
-#### **Database & Backend**
-61. **Library Management System** - Track books and borrowers
-62. **Student Grade Tracker** - Academic performance system
-63. **Inventory Management** - Track products and stock
-64. **Employee Management System** - HR data management
-65. **Banking System Simulator** - Account operations
-66. **Hospital Management** - Patient and staff records
-67. **E-commerce Cart** - Shopping cart functionality
-68. **Booking System** - Reservation management
-69. **Survey System** - Create and analyze surveys
-70. **Customer Relationship Manager** - Basic CRM features
+</td>
+</tr>
+</table>
 
-#### **APIs & External Services**
-71. **GitHub Profile Analyzer** - Analyze GitHub statistics
-72. **Twitter Bot** - Automated social media posts
-73. **Email Sender** - Automated email system
-74. **SMS Notification Service** - Send text messages
-75. **File Upload Service** - Handle file uploads
-76. **Payment Gateway Integration** - Process payments
-77. **Google Maps Integration** - Location-based features
-78. **Social Media Dashboard** - Multiple platform management
-79. **Stock Price Tracker** - Real-time stock data
-80. **Cryptocurrency Tracker** - Monitor crypto prices
+---
 
-#### **Data Processing**
-81. **CSV Data Analyzer** - Process and analyze CSV files
-82. **Web Scraper** - Extract data from websites
-83. **Log File Analyzer** - Parse and analyze system logs
-84. **Data Visualization Dashboard** - Charts and graphs
-85. **Report Generator** - Automated report creation
-86. **Backup System** - Automated file backup
-87. **File Organizer** - Sort files by type/date
-88. **Duplicate File Finder** - Identify duplicate files
-89. **Text Processing Tool** - Advanced text manipulation
-90. **Database Migration Tool** - Transfer data between systems
+### 🟡 **Intermediate Projects (51-60)**
 
-#### **Games & Entertainment**
-91. **Chess Game** - Full chess implementation
-92. **Snake Game** - Classic arcade game
-93. **Tetris Clone** - Block-stacking puzzle
-94. **Quiz Application** - Multi-category quiz system
-95. **Card Game (Blackjack)** - Casino card game
-96. **Puzzle Solver** - Sudoku or crossword solver
-97. **Text Adventure Game** - Story-driven game
-98. **Memory Matching Game** - Enhanced memory game
-99. **Word Search Generator** - Create word search puzzles
-100. **Trivia Tournament** - Multi-player quiz system
+<table>
+<tr>
+<td width="50%">
 
-#### **Desktop Applications**
-101. **Text Editor** - Basic word processor
-102. **Calculator with History** - Advanced calculator
-103. **Image Viewer** - Display and organize images
-104. **Music Player** - Audio playback application
-105. **Password Manager** - Secure password storage
-106. **Note-Taking App** - Digital notebook
-107. **Expense Tracker** - Personal finance management
-108. **Time Tracker** - Productivity monitoring
-109. **System Monitor** - Display system information
-110. **File Manager** - Browse and manage files
+#### **Web Development & APIs (51-60)**
+51. Personal Portfolio Website
+52. Blog Platform  
+53. Weather App
+54. Todo List with Database
+55. Recipe Finder
+56. News Aggregator
+57. URL Shortener
+58. Online Resume Builder
+59. Event Calendar
+60. Photo Gallery
 
-#### **Automation & Tools**
-111. **Web Page Monitor** - Track website changes
-112. **Automated Testing Tool** - Test web applications
-113. **Code Formatter** - Format source code
-114. **Build Automation** - Automate compilation
-115. **Deployment Script** - Automate deployments
-116. **Log Rotation Tool** - Manage log files
-117. **Configuration Manager** - Manage app configs
-118. **Performance Monitor** - Track application performance
-119. **Security Scanner** - Basic security checks
-120. **Backup Scheduler** - Schedule automated backups
+</td>
+<td width="50%">
 
-#### **Mobile Applications**
-121. **Expense Tracking App** - Mobile finance tracker
-122. **Fitness Tracker** - Exercise and health monitoring
-123. **Recipe App** - Mobile recipe collection
-124. **Shopping List** - Grocery list management
-125. **Language Learning App** - Basic language lessons
-126. **Habit Tracker** - Daily habit monitoring
-127. **Meditation Timer** - Guided meditation app
-128. **Local Events App** - Find nearby events
-129. **Weather Forecast** - Mobile weather app
-130. **Barcode Scanner** - Scan and lookup products
+*More intermediate projects coming soon!*
 
-#### **Communication & Social**
-131. **Chat Application** - Real-time messaging
-132. **Forum System** - Discussion platform
-133. **Video Call App** - Basic video conferencing
-134. **Message Board** - Bulletin board system
-135. **Email Client** - Basic email management
-136. **Contact Manager** - Address book application
-137. **Group Messaging** - Multi-user chat
-138. **File Sharing System** - Share files between users
-139. **Collaboration Tool** - Team workspace
-140. **Social Network (Basic)** - Simple social platform
+**Categories planned:**
+- Database & Backend Systems
+- Data Processing & Analytics
+- Games & Entertainment
+- Desktop Applications
+- Mobile Applications
+- Security & Cryptography
 
-#### **Security & Cryptography**
-141. **Password Hasher** - Secure password hashing
-142. **File Encryption Tool** - Encrypt/decrypt files
-143. **Digital Signature System** - Document signing
-144. **Access Control System** - User permissions
-145. **Audit Logger** - Security event logging
-146. **Two-Factor Authentication** - 2FA implementation
-147. **Secure File Transfer** - Encrypted file sharing
-148. **Key Management System** - Cryptographic key storage
-149. **Network Security Scanner** - Basic vulnerability scan
-150. **Secure Chat** - Encrypted messaging
+</td>
+</tr>
+</table>
 
-### 🔴 **Advanced Projects (151-200)**
+---
 
-#### **System Design & Architecture**
-151. **Distributed Cache System** - Multi-node caching
-152. **Load Balancer** - Distribute traffic across servers
-153. **Message Queue System** - Asynchronous messaging
-154. **Microservices Framework** - Service architecture
-155. **Container Orchestration** - Manage containerized apps
-156. **Service Discovery** - Find and connect services
-157. **API Gateway** - Centralized API management
-158. **Circuit Breaker Pattern** - Fault tolerance system
-159. **Event Sourcing System** - Event-driven architecture
-160. **CQRS Implementation** - Command Query Responsibility Segregation
+### 🔴 **Advanced Projects (61-97)**
 
-#### **Machine Learning & AI**
-161. **Recommendation Engine** - Suggest products/content
-162. **Image Classification** - Classify images using ML
-163. **Natural Language Processing** - Text analysis and processing
-164. **Sentiment Analysis** - Analyze text sentiment
-165. **Chatbot with AI** - Intelligent conversational agent
-166. **Fraud Detection System** - Identify fraudulent transactions
-167. **Predictive Analytics** - Forecast future trends
-168. **Computer Vision Project** - Object detection/recognition
-169. **Speech Recognition** - Convert speech to text
-170. **Neural Network from Scratch** - Build NN without frameworks
+<table>
+<tr>
+<td width="50%">
 
-#### **Blockchain & Cryptocurrency**
-171. **Simple Blockchain** - Basic blockchain implementation
-172. **Cryptocurrency Wallet** - Store and manage crypto
-173. **Smart Contract Platform** - Execute programmable contracts
-174. **Decentralized Application (DApp)** - Blockchain-based app
-175. **Token Exchange** - Trade digital tokens
-176. **Voting System** - Transparent voting on blockchain
-177. **Supply Chain Tracker** - Track products through supply chain
-178. **Digital Identity System** - Manage digital identities
-179. **Peer-to-Peer Network** - Decentralized network protocol
-180. **Consensus Algorithm** - Implement consensus mechanism
+#### **System Design & Architecture (61-70)**
+61. Distributed Cache System
+62. Load Balancer
+63. Message Queue System
+64. Microservices Framework
+65. Container Orchestration
+66. API Gateway
+67. Event Sourcing System
+68. Service Discovery
+69. Circuit Breaker Pattern
+70. CQRS Implementation
 
-#### **High-Performance Computing**
-181. **Parallel Processing System** - Multi-threaded applications
-182. **Distributed Computing Framework** - Compute across multiple machines
-183. **Real-time Data Processing** - Stream processing system
-184. **High-Frequency Trading System** - Ultra-fast trading platform
-185. **Scientific Computing Library** - Mathematical computations
-186. **Big Data Analytics** - Process large datasets
-187. **MapReduce Implementation** - Distributed data processing
-188. **Graph Processing Engine** - Process large graphs
-189. **Time Series Database** - Store and query time-series data
-190. **Search Engine** - Full-text search implementation
+#### **Machine Learning & AI (71-77)**
+71. Recommendation Engine
+72. Image Classification
+73. Natural Language Processing
+74. Chatbot with AI
+75. Sentiment Analysis
+76. Fraud Detection System
+77. Computer Vision Project
 
-#### **Advanced Networking**
-191. **VPN Implementation** - Virtual private network
-192. **Network Protocol** - Custom communication protocol
-193. **Firewall System** - Network security filtering
-194. **DNS Server** - Domain name resolution
-195. **Web Server** - HTTP server implementation
-196. **Proxy Server** - Intermediary server
-197. **Network Monitoring Tool** - Monitor network traffic
-198. **Intrusion Detection System** - Detect security threats
-199. **Software-Defined Network** - Programmable network
-200. **Network Simulator** - Simulate network behavior
+#### **Infrastructure as Code (78)**
+78. Multi-Cloud Infrastructure Platform
+
+</td>
+<td width="50%">
+
+#### **High-Performance Computing (79-83)**
+79. High-Frequency Trading System
+80. Scientific Computing Library
+81. Big Data Analytics Platform
+82. MapReduce Framework
+83. Graph Processing Engine
+
+#### **Blockchain & Cryptocurrency (84-85)**
+84. Time Series Database
+85. Cryptocurrency Wallet
+
+#### **Advanced Networking (86-97)**
+86. VPN Implementation
+87. Network Protocol
+88. Firewall System
+89. DNS Server
+90. Web Server
+91. Proxy Server
+92. Network Monitoring Tool
+93. Intrusion Detection System
+94. Software-Defined Network
+95. Network Simulator
+96. Distributed Storage System
+97. Edge Computing Platform
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -507,8 +435,6 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 [![Instagram](https://img.shields.io/badge/Instagram-ss__web__innovations-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ss_web_innovations)
 
 </div>
-
-
 
 </td>
 </tr>
