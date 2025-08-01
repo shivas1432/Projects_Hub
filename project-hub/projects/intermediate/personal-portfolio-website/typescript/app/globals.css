@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+:root {
+  color-scheme: dark;
+  scroll-behavior: smooth;
+}
+
+@layer utilities {
+  .navbar {
+    @apply flex flex-col py-8 justify-center border-none text-white-1 max-md:hidden w-full h-[60px];
+  }
+
+  .text-12 {
+    @apply text-[12px] leading-normal;
+  }
+
+  .text-14 {
+    @apply text-[14px] leading-normal;
+  }
+
+  .text-16 {
+    @apply text-[16px] leading-normal;
+  }
+
+  .text-18 {
+    @apply text-[18px] leading-normal;
+  }
+
+  .text-20 {
+    @apply text-[20px] leading-normal;
+  }
+
+  .text-24 {
+    @apply text-[24px] leading-normal;
+  }
+
+  .text-32 {
+    @apply text-[32px] leading-normal;
+  }
+}
