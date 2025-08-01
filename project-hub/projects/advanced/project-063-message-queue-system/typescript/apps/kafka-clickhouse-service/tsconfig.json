@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "skipLibCheck": true,
+        "module": "commonjs",
+        "target": "es2022",
+        "forceConsistentCasingInFileNames": true
+    }
+}
