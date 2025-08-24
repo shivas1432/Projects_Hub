@@ -52,3 +52,4 @@ The analysis provides:
 
 ## Privacy
 This tool processes chat data locally. No data is sent to external servers, ensuring your conversations remain private.
+<img width="1343" height="745" alt="image" src="https://github.com/user-attachments/assets/e44bc9ab-979c-4b34-8b48-ba4086550b62" />
